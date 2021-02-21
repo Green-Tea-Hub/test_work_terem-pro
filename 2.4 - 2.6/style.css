@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  padding: 15px 0;
+  width: 200px;
+  margin: auto;
+  text-align: right;
+}
+form > label {
+  display: block;
+}
+form input {
+  width: 150px;
+}
